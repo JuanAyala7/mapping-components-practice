@@ -1,2 +1,7 @@
 # mapping-components-practice
-Created with CodeSandbox
+
+Why is this important?
+
+Lessons Learned
+
+Considerations
